@@ -1,5 +1,5 @@
 # Algorithmic Machine Learning
-This repository contains the Jupyter Notebooks for the Algorithmic Machine Learning Course at EURECOM (Spring 2017). All the work has been jointly performed by [Simone Rossi](https://github.com/srossi93) and [Matteo Romiti](https://github.com/MatteoRomiti). All the work comes with absolutly no warranty, even if we proudly note that we were the only group out of 30 to achive the full mark (20/20).  
+This repository contains the Jupyter Notebooks for the Algorithmic Machine Learning Course at EURECOM (Spring 2017). All the work has been jointly performed by [Simone Rossi](https://github.com/srossi93) and [Matteo Romiti](https://github.com/MatteoRomiti). All the work comes with absolutly no warranty, even if we proudly note that we were the only group out of 30 to achieve the full mark (20/20).  
 
 ## Objectives of the course
 The goal of this course is mainly to offer students to gain hands-on experience on Data Science projects. It nicely merges the theoretical concepts students can learn in our courses on machine learning and statistical inference, and systems concepts we teach in distributed systems.
